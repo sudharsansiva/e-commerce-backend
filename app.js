@@ -16,6 +16,13 @@ ConnectDatabase();
 app.use(express.json())
 app.use(cors())
 
+app.use((req, res, next) => {
+    res.setHeader(
+      "Content-Security-Policy",
+      "default-src 'self'; img-src 'self' https://e-commerce-backend-krhi.onrender.com data:;"
+    );
+    next();
+  });
 
 app.use("/api/v1", productsRouter);
 app.use("/api/v1", order);
