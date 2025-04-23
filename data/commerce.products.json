@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb44"
+  },
+  "name": "iPhone 14 Pro",
+  "price": "111200",
+  "description": "Latest Apple flagship phone",
+  "images": [
+    {
+      "image": "0.jpg"
+    }
+  ],
+  "category": "Smartphone",
+  "seller": "Apple Store",
+  "stock": "0",
+  "numOfReviews": "1200",
+  "ratings": "4.8"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb45"
+  },
+  "name": "Samsung Galaxy S23",
+  "price": "21100",
+  "description": "Powerful Android flagship",
+  "images": [
+    {
+      "image": "1.jpg"
+    }
+  ],
+  "category": "Smartphone",
+  "seller": "Samsung Store",
+  "stock": "38",
+  "numOfReviews": "1000",
+  "ratings": "4.7"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb46"
+  },
+  "name": "Sony WH-1000XM5",
+  "price": "4000",
+  "description": "Noise-canceling headphones",
+  "images": [
+    {
+      "image": "2.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Sony Store",
+  "stock": "30",
+  "numOfReviews": "800",
+  "ratings": "4.9"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb47"
+  },
+  "name": "Dell XPS 15",
+  "price": "58000",
+  "description": "High-end performance laptop",
+  "images": [
+    {
+      "image": "3.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Dell Official",
+  "stock": "19",
+  "numOfReviews": "500",
+  "ratings": "4.6"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb48"
+  },
+  "name": "MacBook Pro M2",
+  "price": "12200",
+  "description": "Apple M2 chip laptop",
+  "images": [
+    {
+      "image": "4.jpg"
+    }
+  ],
+  "category": "Laptops",
+  "seller": "Apple Store",
+  "stock": "25",
+  "numOfReviews": "900",
+  "ratings": "4.9"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb49"
+  },
+  "name": "Google Pixel 7",
+  "price": "111800",
+  "description": "Google’s latest smartphone",
+  "images": [
+    {
+      "image": "5.jpg"
+    }
+  ],
+  "category": "Smartphone",
+  "seller": "Google Store",
+  "stock": "35",
+  "numOfReviews": "600",
+  "ratings": "4.5"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb4a"
+  },
+  "name": "iPad Pro 12.9",
+  "price": "30300",
+  "description": "Apple’s powerful tablet",
+  "images": [
+    {
+      "image": "6.jpg"
+    }
+  ],
+  "category": "Tablets",
+  "seller": "Apple Store",
+  "stock": "15",
+  "numOfReviews": "300",
+  "ratings": "4.8"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb4b"
+  },
+  "name": "Apple Watch Series 8",
+  "price": "5000",
+  "description": "Advanced smartwatch from Apple",
+  "images": [
+    {
+      "image": "7.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Apple Store",
+  "stock": "45",
+  "numOfReviews": "700",
+  "ratings": "4.7"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb4c"
+  },
+  "name": "Sony PlayStation 5",
+  "price": "8000",
+  "description": "Next-gen gaming console",
+  "images": [
+    {
+      "image": "8.jpg"
+    }
+  ],
+  "category": "Gaming",
+  "seller": "Sony Store",
+  "stock": "10",
+  "numOfReviews": "5000",
+  "ratings": "4.9"
+},
+{
+  "_id": {
+    "$oid": "67dad974aa42bc87d924bb4d"
+  },
+  "name": "Bose SoundLink Speaker",
+  "price": "8000",
+  "description": "Portable Bluetooth speaker",
+  "images": [
+    {
+      "image": "9.jpg"
+    }
+  ],
+  "category": "Accessories",
+  "seller": "Bose Store",
+  "stock": "60",
+  "numOfReviews": "400",
+  "ratings": "4.7"
+},
+{
+  "_id": {
+    "$oid": "6808497f18faada9352da387"
+  },
+  "name": "iPhone 14 Pro",
+  "price": "111200",
+  "description": "Latest Apple flagship phone",
+  "images": [
+    {
+      "image": "0.jpg"
+    }
+  ],
+  "category": "Smartphone",
+  "seller": "Apple Store",
+  "stock": "0",
+  "numOfReviews": "1200",
+  "ratings": "4.8"
+}]
